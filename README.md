@@ -1,2 +1,2 @@
 # Discord-IP-logger
-don't just log a token!
+Simple to use 6 line ip logger posted via webhook
